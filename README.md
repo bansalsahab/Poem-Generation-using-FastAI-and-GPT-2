@@ -22,4 +22,7 @@ The repository contains code for the following:
 
 ```bash
 git clone https://github.com/bansalsahab/Poem-Generation-using-FastAI.git
-cd Poem-Generation-using-FastAI
+```
+
+```bash
+cd Poem-Generation-using-FastAI-and-GPT-2
